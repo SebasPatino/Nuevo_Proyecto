@@ -1,0 +1,761 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(https://images6.alphacoders.com/640/640445.jpg);
+
+}
+
+h1 {
+    color: #ffa500;
+    -webkit-text-stroke: #000000 1px;
+    font-size: 50px;
+    text-align: center;
+    background-color: #ff00008d;
+    width: auto;
+    width: auto;
+    margin-top: 50px;
+}
+
+.imagenes {
+    width: 150px;
+    height: 200px;
+    margin-top: 10px;
+}
+
+.container {
+    text-align: center;
+    padding: 20em;
+    margin: 20px;
+}
+
+p {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.card {
+    text-align: center;
+    background-color: #7986087a;
+    color: #000000;
+    border: 2px solid #000000;
+    margin: 10px;
+    display: inline-block;
+    vertical-align: top;
+    height: 290px;
+    width: 160px;
+    object-fit: fill;
+}
+
+.card1 {
+    text-align: center;
+    background-color: #7986087a;
+    color: #000000;
+    border: 2px solid #000000;
+    margin: 10px;
+    display: inline-block;
+    vertical-align: top;
+    height: 290px;
+    width: 160px;
+    object-fit: fill;
+}
+
+.card2 {
+    text-align: center;
+    background-color: #7986087a;
+    color: #000000;
+    border: 2px solid #000000;
+    margin: 10px;
+    display: inline-block;
+    vertical-align: top;
+    height: 290px;
+    width: 160px;
+    object-fit: fill;
+}
+
+.card3 {
+    text-align: center;
+    background-color: #7986087a;
+    color: #000000;
+    border: 2px solid #000000;
+    margin: 10px;
+    display: inline-block;
+    vertical-align: top;
+    height: 290px;
+    width: 160px;
+    object-fit: fill;
+}
+
+.card4 {
+    text-align: center;
+    background-color: #2a860885;
+    color: #000000;
+    border: 2px solid #000000;
+    margin: 10px;
+    display: inline-block;
+    vertical-align: top;
+    height: 290px;
+    width: 160px;
+    object-fit: fill;
+}
+
+.card5 {
+    text-align: center;
+    background-color: #2a860885;
+    color: #000000;
+    border: 2px solid #000000;
+    margin: 10px;
+    display: inline-block;
+    vertical-align: top;
+    height: 290px;
+    width: 160px;
+    object-fit: fill;
+}
+
+.card6 {
+    text-align: center;
+    background-color: #2a860885;
+    color: #000000;
+    border: 2px solid #000000;
+    margin: 10px;
+    display: inline-block;
+    vertical-align: top;
+    height: 290px;
+    width: 160px;
+    object-fit: fill;
+}
+
+.card7 {
+    text-align: center;
+    background-color: #2a860885;
+    color: #000000;
+    border: 2px solid #000000;
+    margin: 10px;
+    display: inline-block;
+    vertical-align: top;
+    height: 290px;
+    width: 160px;
+    object-fit: fill;
+}
+
+.card8 {
+    text-align: center;
+    background-color: #08866485;
+    color: #000000;
+    border: 2px solid #000000;
+    margin: 10px;
+    display: inline-block;
+    vertical-align: top;
+    height: 290px;
+    width: 160px;
+    object-fit: fill;
+}
+
+.card9 {
+    text-align: center;
+    background-color: #08866485;
+    color: #000000;
+    border: 2px solid #000000;
+    margin: 10px;
+    display: inline-block;
+    vertical-align: top;
+    height: 290px;
+    width: 160px;
+    object-fit: fill;
+}
+
+.card10 {
+    text-align: center;
+    background-color: #08866485;
+    color: #000000;
+    border: 2px solid #000000;
+    margin: 10px;
+    display: inline-block;
+    vertical-align: top;
+    height: 290px;
+    width: 160px;
+    object-fit: fill;
+}
+
+.card11 {
+    text-align: center;
+    background-color: #08866485;
+    color: #000000;
+    border: 2px solid #000000;
+    margin: 10px;
+    display: inline-block;
+    vertical-align: top;
+    height: 290px;
+    width: 160px;
+    object-fit: fill;
+}
+
+.card12 {
+    text-align: center;
+    background-color: #08548685;
+    color: #000000;
+    border: 2px solid #000000;
+    margin: 10px;
+    display: inline-block;
+    vertical-align: top;
+    height: 290px;
+    width: 160px;
+    object-fit: fill;
+}
+
+.card13 {
+    text-align: center;
+    background-color: #08548685;
+    color: #000000;
+    border: 2px solid #000000;
+    margin: 10px;
+    display: inline-block;
+    vertical-align: top;
+    height: 290px;
+    width: 160px;
+    object-fit: fill;
+}
+
+.card14 {
+    text-align: center;
+    background-color: #08548685;
+    color: #000000;
+    border: 2px solid #000000;
+    margin: 10px;
+    display: inline-block;
+    vertical-align: top;
+    height: 290px;
+    width: 160px;
+    object-fit: fill;
+}
+
+.card15 {
+    text-align: center;
+    background-color: #08548685;
+    color: #000000;
+    border: 2px solid #000000;
+    margin: 10px;
+    display: inline-block;
+    vertical-align: top;
+    height: 290px;
+    width: 160px;
+    object-fit: fill;
+}
+
+.card16 {
+    text-align: center;
+    background-color: #080e8685;
+    color: #000000;
+    border: 2px solid #000000;
+    margin: 10px;
+    display: inline-block;
+    vertical-align: top;
+    height: 290px;
+    width: 160px;
+    object-fit: fill;
+}
+
+.card17 {
+    text-align: center;
+    background-color: #080e8685;
+    color: #000000;
+    border: 2px solid #000000;
+    margin: 10px;
+    display: inline-block;
+    vertical-align: top;
+    height: 290px;
+    width: 160px;
+    object-fit: fill;
+}
+
+.card18 {
+    text-align: center;
+    background-color: #080e8685;
+    color: #000000;
+    border: 2px solid #000000;
+    margin: 10px;
+    display: inline-block;
+    vertical-align: top;
+    height: 290px;
+    width: 160px;
+    object-fit: fill;
+}
+
+.card19 {
+    text-align: center;
+    background-color: #080e8685;
+    color: #000000;
+    border: 2px solid #000000;
+    margin: 10px;
+    display: inline-block;
+    vertical-align: top;
+    height: 290px;
+    width: 160px;
+    object-fit: fill;
+}
+
+.card20 {
+    text-align: center;
+    background-color: #4d088685;
+    color: #000000;
+    border: 2px solid #000000;
+    margin: 10px;
+    display: inline-block;
+    vertical-align: top;
+    height: 290px;
+    width: 160px;
+    object-fit: fill;
+}
+
+.card21 {
+    text-align: center;
+    background-color: #4d088685;
+    color: #000000;
+    border: 2px solid #000000;
+    margin: 10px;
+    display: inline-block;
+    vertical-align: top;
+    height: 290px;
+    width: 160px;
+    object-fit: fill;
+}
+
+.card22 {
+    text-align: center;
+    background-color: #4d088685;
+    color: #000000;
+    border: 2px solid #000000;
+    margin: 10px;
+    display: inline-block;
+    vertical-align: top;
+    height: 290px;
+    width: 160px;
+    object-fit: fill;
+}
+
+.card23 {
+    text-align: center;
+    background-color: #4d088685;
+    color: #000000;
+    border: 2px solid #000000;
+    margin: 10px;
+    display: inline-block;
+    vertical-align: top;
+    height: 290px;
+    width: 160px;
+    object-fit: fill;
+}
+
+.card24 {
+    text-align: center;
+    background-color: #86088285;
+    color: #000000;
+    border: 2px solid #000000;
+    margin: 10px;
+    display: inline-block;
+    vertical-align: top;
+    height: 290px;
+    width: 160px;
+    object-fit: fill;
+}
+
+.card25 {
+    text-align: center;
+    background-color: #86088285;
+    color: #000000;
+    border: 2px solid #000000;
+    margin: 10px;
+    display: inline-block;
+    vertical-align: top;
+    height: 290px;
+    width: 160px;
+    object-fit: fill;
+}
+
+.card26 {
+    text-align: center;
+    background-color: #86088285;
+    color: #000000;
+    border: 2px solid #000000;
+    margin: 10px;
+    display: inline-block;
+    vertical-align: top;
+    height: 290px;
+    width: 160px;
+    object-fit: fill;
+}
+
+.card27 {
+    text-align: center;
+    background-color: #86088285;
+    color: #000000;
+    border: 2px solid #000000;
+    margin: 10px;
+    display: inline-block;
+    vertical-align: top;
+    height: 290px;
+    width: 160px;
+    object-fit: fill;
+}
+
+.card28 {
+    text-align: center;
+    background-color: #86084585;
+    color: #000000;
+    border: 2px solid #000000;
+    margin: 10px;
+    display: inline-block;
+    vertical-align: top;
+    height: 290px;
+    width: 160px;
+    object-fit: fill;
+}
+
+.card29 {
+    text-align: center;
+    background-color: #86084585;
+    color: #000000;
+    border: 2px solid #000000;
+    margin: 10px;
+    display: inline-block;
+    vertical-align: top;
+    height: 290px;
+    width: 160px;
+    object-fit: fill;
+}
+
+.card30 {
+    text-align: center;
+    background-color: #86084585;
+    color: #000000;
+    border: 2px solid #000000;
+    margin: 10px;
+    display: inline-block;
+    vertical-align: top;
+    height: 290px;
+    width: 160px;
+    object-fit: fill;
+}
+
+.card31 {
+    text-align: center;
+    background-color: #86084585;
+    color: #000000;
+    border: 2px solid #000000;
+    margin: 10px;
+    display: inline-block;
+    vertical-align: top;
+    height: 290px;
+    width: 160px;
+    object-fit: fill;
+}
+
+.card32 {
+    text-align: center;
+    background-color: #86270885;
+    color: #000000;
+    border: 2px solid #000000;
+    margin: 10px;
+    display: inline-block;
+    vertical-align: top;
+    height: 290px;
+    width: 160px;
+    object-fit: fill;
+}
+
+.card33 {
+    text-align: center;
+    background-color: #86270885;
+    color: #000000;
+    border: 2px solid #000000;
+    margin: 10px;
+    display: inline-block;
+    vertical-align: top;
+    height: 290px;
+    width: 160px;
+    object-fit: fill;
+}
+
+.card34 {
+    text-align: center;
+    background-color: #86270885;
+    color: #000000;
+    border: 2px solid #000000;
+    margin: 10px;
+    display: inline-block;
+    vertical-align: top;
+    height: 290px;
+    width: 160px;
+    object-fit: fill;
+}
+
+.card35 {
+    text-align: center;
+    background-color: #86270885;
+    color: #000000;
+    border: 2px solid #000000;
+    margin: 10px;
+    display: inline-block;
+    vertical-align: top;
+    height: 290px;
+    width: 160px;
+    object-fit: fill;
+}
+
+.card36 {
+    text-align: center;
+    background-color: #86750885;
+    color: #000000;
+    border: 2px solid #000000;
+    margin: 10px;
+    display: inline-block;
+    vertical-align: top;
+    height: 290px;
+    width: 160px;
+    object-fit: fill;
+}
+
+.card37 {
+    text-align: center;
+    background-color: #86750885;
+    color: #000000;
+    border: 2px solid #000000;
+    margin: 10px;
+    display: inline-block;
+    vertical-align: top;
+    height: 290px;
+    width: 160px;
+    object-fit: fill;
+}
+
+.card38 {
+    text-align: center;
+    background-color: #86750885;
+    color: #000000;
+    border: 2px solid #000000;
+    margin: 10px;
+    display: inline-block;
+    vertical-align: top;
+    height: 290px;
+    width: 160px;
+    object-fit: fill;
+}
+
+.card39 {
+    text-align: center;
+    background-color: #86750885;
+    color: #000000;
+    border: 2px solid #000000;
+    margin: 10px;
+    display: inline-block;
+    vertical-align: top;
+    height: 290px;
+    width: 160px;
+    object-fit: fill;
+}
+
+.card40 {
+    text-align: center;
+    background-color: #5a860885;
+    color: #000000;
+    border: 2px solid #000000;
+    margin: 10px;
+    display: inline-block;
+    vertical-align: top;
+    height: 290px;
+    width: 160px;
+    object-fit: fill;
+}
+
+.card41 {
+    text-align: center;
+    background-color: #5a860885;
+    color: #000000;
+    border: 2px solid #000000;
+    margin: 10px;
+    display: inline-block;
+    vertical-align: top;
+    height: 290px;
+    width: 160px;
+    object-fit: fill;
+}
+
+.card42 {
+    text-align: center;
+    background-color: #5a860885;
+    color: #000000;
+    border: 2px solid #000000;
+    margin: 10px;
+    display: inline-block;
+    vertical-align: top;
+    height: 290px;
+    width: 160px;
+    object-fit: fill;
+}
+
+.card43 {
+    text-align: center;
+    background-color: #5a860885;
+    color: #000000;
+    border: 2px solid #000000;
+    margin: 10px;
+    display: inline-block;
+    vertical-align: top;
+    height: 290px;
+    width: 160px;
+    object-fit: fill;
+}
+
+.card44 {
+    text-align: center;
+    background-color: #08860885;
+    color: #000000;
+    border: 2px solid #000000;
+    margin: 10px;
+    display: inline-block;
+    vertical-align: top;
+    height: 290px;
+    width: 160px;
+    object-fit: fill;
+}
+
+.card45 {
+    text-align: center;
+    background-color: #08860885;
+    color: #000000;
+    border: 2px solid #000000;
+    margin: 10px;
+    display: inline-block;
+    vertical-align: top;
+    height: 290px;
+    width: 160px;
+    object-fit: fill;
+}
+
+.card46 {
+    text-align: center;
+    background-color: #08860885;
+    color: #000000;
+    border: 2px solid #000000;
+    margin: 10px;
+    display: inline-block;
+    vertical-align: top;
+    height: 290px;
+    width: 160px;
+    object-fit: fill;
+}
+
+.card47 {
+    text-align: center;
+    background-color: #08860885;
+    color: #000000;
+    border: 2px solid #000000;
+    margin: 10px;
+    display: inline-block;
+    vertical-align: top;
+    height: 290px;
+    width: 160px;
+    object-fit: fill;
+}
+
+.card48 {
+    text-align: center;
+    background-color: #08865685;
+    color: #000000;
+    border: 2px solid #000000;
+    margin: 10px;
+    display: inline-block;
+    vertical-align: top;
+    height: 290px;
+    width: 160px;
+    object-fit: fill;
+}
+
+.card49 {
+    text-align: center;
+    background-color: #08865685;
+    color: #000000;
+    border: 2px solid #000000;
+    margin: 10px;
+    display: inline-block;
+    vertical-align: top;
+    height: 290px;
+    width: 160px;
+    object-fit: fill;
+}
+
+.card50 {
+    text-align: center;
+    background-color: #08865685;
+    color: #000000;
+    border: 2px solid #000000;
+    margin: 10px;
+    display: inline-block;
+    vertical-align: top;
+    height: 290px;
+    width: 160px;
+    object-fit: fill;
+}
+
+.card51 {
+    text-align: center;
+    background-color: #08865685;
+    color: #000000;
+    border: 2px solid #000000;
+    margin: 10px;
+    display: inline-block;
+    vertical-align: top;
+    height: 290px;
+    width: 160px;
+    object-fit: fill;
+}
+
+.card52 {
+    text-align: center;
+    background-color: #08738685;
+    color: #000000;
+    border: 2px solid #000000;
+    margin: 10px;
+    display: inline-block;
+    vertical-align: top;
+    height: 290px;
+    width: 160px;
+    object-fit: fill;
+}
+
+.card53 {
+    text-align: center;
+    background-color: #08738685;
+    color: #000000;
+    border: 2px solid #000000;
+    margin: 10px;
+    display: inline-block;
+    vertical-align: top;
+    height: 290px;
+    width: 160px;
+    object-fit: fill;
+}
+
+.card54 {
+    text-align: center;
+    background-color: #08738685;
+    color: #000000;
+    border: 2px solid #000000;
+    margin: 10px;
+    display: inline-block;
+    vertical-align: top;
+    height: 290px;
+    width: 160px;
+    object-fit: fill;
+}
+
+.card55 {
+    text-align: center;
+    background-color: #08738685;
+    color: #000000;
+    border: 2px solid #000000;
+    margin: 10px;
+    display: inline-block;
+    vertical-align: top;
+    height: 290px;
+    width: 160px;
+    object-fit: fill;
+}
